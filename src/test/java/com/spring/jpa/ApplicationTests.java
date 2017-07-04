@@ -13,8 +13,8 @@ import static org.junit.Assert.assertTrue;
 public class ApplicationTests {
 	@Test
 	public void testIndex() {
-		int salary = 96000; 
-		assertEquals(96000, salary, 0.0);
+		
+		assertTrue(true);
 	}
 	@Test
 	public void tesCreate() {
