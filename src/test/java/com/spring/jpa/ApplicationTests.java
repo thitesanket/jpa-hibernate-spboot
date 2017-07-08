@@ -14,7 +14,7 @@ public class ApplicationTests {
 	@Test
 	public void testIndex() {
 		
-		assertTrue(true);
+		assertTrue(false);
 	}
 	@Test
 	public void tesCreate() {
